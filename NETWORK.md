@@ -1,17 +1,29 @@
-# Zion AI Contract Guardian — Zion App Network
+# Zion AI Contract Guardian — static concept
 
-Zion AI Contract Guardian — AI contract review for IT services: clause extraction, SLA verification, renewal alerts. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
+A starting point for planning a contract review, not an automated contract reviewer.
 
-- 🔗 Live app: [https://ziontechgroup.com/zion-ai-contract-guardian/](https://ziontechgroup.com/zion-ai-contract-guardian/)
-- 🏠 Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
+## Capability status
+The inspected repository contains static HTML and Markdown only. No clause-extraction engine, contract ingestion, renewal scheduler or service-delivery connector is implemented in the reviewed files.
 
-## Related apps in the network
+Use synthetic or public data. This page has no upload, account connection, live monitoring, automatic alerts or AI execution. It does not provide legal advice, safety certification or a guaranteed outcome.
 
-- [Zion AI Contract Reviewer](https://github.com/Zion-support/zion-ai-contract-reviewer) — NDA/MSA/SOW clause-level risk scoring
-- [Zion AI Contract Review](https://github.com/Zion-support/zion-ai-contract-review) — contract intelligence and clause risk analysis
-- [Contract Clause Reviewer](https://github.com/Zion-support/contract-clause-reviewer) — flag risky IT/AI contract clauses
-- [Zion AI Data Contract Enforcer](https://github.com/Zion-support/zion-ai-data-contract-enforcer) — data contract enforcement
-- [Zion AI Legal Ops](https://github.com/Zion-support/zion-ai-legal-ops) — matter management and e-discovery
+## Five-language page candidates
+- [English](https://ziontechgroup.com/zion-ai-contract-guardian/)
+- [Português (Brasil)](https://ziontechgroup.com/zion-ai-contract-guardian/pt/)
+- [Español](https://ziontechgroup.com/zion-ai-contract-guardian/es/)
+- [Français](https://ziontechgroup.com/zion-ai-contract-guardian/fr/)
+- [Deutsch](https://ziontechgroup.com/zion-ai-contract-guardian/de/)
 
-## Part of the Zion App Network
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+These routes are proposed source paths, not a live publication claim. Native-language and browser review remain pending.
+
+## Related concepts
+- [Zion AI Energy Sentinel](https://ziontechgroup.com/zion-ai-energy-sentinel/) · [source](https://github.com/Zion-support/zion-ai-energy-sentinel)
+- [Agent SLA Monitor](https://ziontechgroup.com/agent-sla-monitor/) · [source](https://github.com/Zion-support/agent-sla-monitor)
+
+## Network navigation
+- [Master directory](https://ziontechgroup.com/zion-app-network/)
+- [Homepage](https://ziontechgroup.com/)
+- [Discovery](https://ziontechgroup.com/discovery/)
+
+## Evidence and release gate
+Static source inspection only. No AI, live telemetry, delivery, legal, safety or security certification. Re-read current file hashes before applying. All three repositories must publish together to avoid broken locale links. Do not alter the website manual-only deployment hold. No main push, merge, deploy, form submission, booking or background automation is authorized by this review pack.
